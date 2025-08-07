@@ -1,20 +1,31 @@
-
 # 💳 Bank System Project
 
-The Bank System Project represents my first significant work in an OOP environment. The work is written in the C++ programming language, using a large part of the capabilities of this programming language, such as classes with attributes and methods, inheritance, vectors, structures, etc.
+The **Bank System Project** represents my first significant work in an object-oriented programming (OOP) environment. It is written in **C++**, utilizing core features such as classes with attributes and methods, inheritance, vectors, structures, and more.
 
-The project of the bank system is based primarily on CRUD functionalities that bring admin and user panel. On the administrator's side, account management options are provided in the database (current and savings accounts), as well as user account management (admin and regular users). The user side offers interesting features such as transferring money from one account to another, viewing the current amount on the account, as well as the history of all transactions that have been made. There are also credit options, where only creditworthy people can borrow a certain amount. A user can be associated with one account, but this can also be changed through the admin panel.
+This banking system is primarily based on **CRUD functionalities**, offering both **admin** and **user panels**.  
+On the **administrator side**, it provides full control over account management (both current and savings accounts), as well as user account creation, editing, and deletion (admin and regular users).  
+On the **user side**, the system enables operations such as:
 
-The system is full of many benefits and has been carefully designed to adapt to each user. It is modular and represents a good basis for further development and improvement. I recommend watching the YouTube video below in order to further understand the principles and algorithms of the system's functioning, but also to see what the system brings through the command line interface.
+- Transferring money between accounts  
+- Viewing account balance  
+- Viewing a complete history of all transactions  
+- Requesting loans (only creditworthy users are eligible)  
+
+Each user is associated with one account, but this can be modified by the admin panel when needed.
+
+The system was designed with flexibility in mind and provides a modular codebase suitable for further upgrades and scalability. The command-line interface offers a clean experience while demonstrating the core logic behind the system.
+
+📽️ I highly recommend watching the video below to better understand the system’s functionality and the algorithms it uses in real-world scenarios.
 
 ## ▶️ YouTube Overview
 
-[![Bank System Project in C++ (Projekat sistema banke) | Implementation with practical examples](https://i.postimg.cc/CL8xZ1FB/bank-system-project.png)](https://www.youtube.com/watch?v=XMNv7Tua7ZE)
+[![Bank System Project in C++ | Implementation with practical examples](images/banksystem_thumb.png)](https://www.youtube.com/watch?v=XMNv7Tua7ZE)
 
 ## ✉️ Contact
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demir-halilbasic/) [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DemkyDesignHub)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/demir-halilbasic/)  
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DemkyDesignHub)
 
 ## 👍 Feedback
 
-If you have any feedback regarding the project itself, other ways of interpreting the code or advice for further steps in programming, I would be happy to read and try to apply your recommendations. Thank you for taking the time to review this project, best regards
+If you have any feedback on this project, alternative approaches to structuring the code, or suggestions for future improvements — feel free to share your thoughts. I truly appreciate your time in reviewing this project. Best regards!
