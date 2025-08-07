@@ -28,4 +28,4 @@ The system was designed with flexibility in mind and provides a modular codebase
 
 ## 👍 Feedback
 
-If you have any feedback on this project, alternative approaches to structuring the code, or suggestions for future improvements — feel free to share your thoughts. I truly appreciate your time in reviewing this project. Best regards!
+If you have any feedback on this project, alternative approaches to structuring the code, or suggestions for future improvements, feel free to share your thoughts. I truly appreciate your time in reviewing this project. Best regards!
